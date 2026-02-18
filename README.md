@@ -1,0 +1,2 @@
+# WiFi-Controlled-Robotic-Car-with-Camera-Surveillance-Using-ESP32-S3-EYE
+This project presents a WiFi-controlled robotic car with real-time camera streaming using the ESP32-S3-EYE development board. The system integrates motor control, wireless communication, and live video streaming into a single embedded IoT platform.  The robot connects to a WiFi network and is controlled via a web-based interface.
